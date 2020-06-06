@@ -1,5 +1,5 @@
-# The-Movie-DB-Kotlin
-The Movie DB app using Kotlin
+# DB- Movie -Kotlin-app
+DB- Movie -Kotlin-app using Kotlin
 
 ![alt text](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
